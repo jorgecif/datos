@@ -1,4 +1,5 @@
 doc_id,doc_title,Column1,Column2,Column3,Column4
+27315,Tristana,.,.,Fp,0
 27315,Tristana,Tristana,tristana,NP00000,0
 27315,Tristana,es,ser,VSIP3S0,01775973
 27315,Tristana,una,uno,DI0FS0,0
@@ -39,7 +40,6 @@ doc_id,doc_title,Column1,Column2,Column3,Column4
 27315,Tristana,en,en,SPS00,0
 27315,Tristana,1970,1970,Z,0
 27315,Tristana,.,.,Fp,0
-216784,Doce monos,<doc,"id=""216784""","title=""Doce","monos"""
 216784,Doce monos,En,en,SPS00,0
 216784,Doce monos,su,su,DP3CS0,0
 216784,Doce monos,primer,1,AO0MS0,02098880
